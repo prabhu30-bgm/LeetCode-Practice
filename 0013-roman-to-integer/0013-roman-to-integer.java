@@ -1,35 +1,47 @@
-class Solution {
-    public int romanToInt(String s) {
-
+class Solution 
+{
+    public int romanToInt(String s) 
+    {
         int total = 0;
-
-        for (int i = 0; i < s.length() - 1; i++) {
-
-            int current = getValue(s.charAt(i));
-            int next = getValue(s.charAt(i + 1));
-
-            if (current < next) {
-                total -= current;
-            } else {
-                total += current;
+        for (int i = 0; i < s.length(); i++) 
+        {
+            int current = value(s.charAt(i));
+            if (i + 1 < s.length()) 
+            {
+                int next = value(s.charAt(i + 1));
+                if (current < next) 
+                {
+                    total = total - current;
+                } 
+                else 
+                {
+                    total = total + current;
+                }
+            } 
+            else 
+            {
+                total = total + current;
             }
         }
-        total += getValue(s.charAt(s.length() - 1));
-
         return total;
     }
 
-    public int getValue(char c) {
-
-        switch (c) {
-            case 'I': return 1;
-            case 'V': return 5;
-            case 'X': return 10;
-            case 'L': return 50;
-            case 'C': return 100;
-            case 'D': return 500;
-            case 'M': return 1000;
-            default: return 0;
-        }
+    public int value(char c) 
+    {
+        if (c == 'I') 
+            return 1;
+        if (c == 'V') 
+            return 5;
+        if (c == 'X') 
+            return 10;
+        if (c == 'L') 
+            return 50;
+        if (c == 'C') 
+            return 100;
+        if (c == 'D') 
+            return 500;
+        if (c == 'M') 
+            return 1000;
+        return 0;
     }
 }
