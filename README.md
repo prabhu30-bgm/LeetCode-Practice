@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0069-sqrtx) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0067-add-binary) |
 ## Array
 |  |
 | ------- |
@@ -55,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
