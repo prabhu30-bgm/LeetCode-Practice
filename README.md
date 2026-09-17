@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0511-game-play-analysis-i) |
 | [0627-swap-sex-of-employees](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0627-swap-sex-of-employees) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 ## Math
 |  |
 | ------- |
