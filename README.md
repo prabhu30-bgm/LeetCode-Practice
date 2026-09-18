@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,10 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -85,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
