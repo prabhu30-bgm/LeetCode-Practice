@@ -2,7 +2,7 @@ class Solution {
     public int fib(int n) {
         if(n == 0 || n == 1)
             return n;
-        // return fib(n-1)+fib(n-2);
+        // return fib(n-1)+fib(n-2); NOT USING THIS BCS PROGRAM REQUIRE DYNAMIC PROGRAMMING
 
         int first = 0;
         int second = 1;
