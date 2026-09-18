@@ -3,15 +3,16 @@ class Solution {
         if(n == 0 || n == 1)
             return n;
         // return fib(n-1)+fib(n-2);
-        int first = 1;
-        int second = 2;
 
-        for (int i = 3; i <= n; i++) {
+        int first = 0;
+        int second = 1;
+
+        for (int i = 2; i <= n; i++) {
             int third = first + second;
 
             first = second;
             second = third;
         }
-        return first;
+        return second;
     }
 }
