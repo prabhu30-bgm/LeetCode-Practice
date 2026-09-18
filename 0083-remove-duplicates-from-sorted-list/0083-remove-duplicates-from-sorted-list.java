@@ -10,16 +10,16 @@
  */
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
-        ListNode head1 = head;
-        while(head1 != null && head1.next != null)
+        ListNode temp = head;
+        while(head != null && head.next != null)
         {
-            if(head1.val == head1.next.val)
+            if(head.val == head.next.val)
             {
-                head1.next = head1.next.next;
+                head.next = head.next.next;
             }
             else
-                head1 = head1.next;
+                head= head.next;
         }
-        return head;
+        return temp;
     }
 }
