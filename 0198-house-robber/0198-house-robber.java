@@ -1,21 +1,38 @@
 class Solution {
     public int rob(int[] nums) {
+        int total = 0;
 
-        int prev2 = 0;
-        int prev1 = 0;
+        if(nums.length == 1)
+        {
+            total = nums[0];
+        }
+        else if(nums.length == 2)
+        {
+            total = Math.max(nums[0], nums[1]);
+        }
+        else
+        {
+            int first = 0;
+            int second = 0;
 
-        for (int i = 0; i < nums.length; i++) {
+            for(int i = 0; i <= nums.length - 1; i++)
+            {
+                int current = second + nums[i];
 
-            int current = prev2 + nums[i];
+                if(current > first)
+                {
+                    total = current;
+                }
+                else
+                {
+                    total = first;
+                }
 
-            if (current < prev1) {
-                current = prev1;
+                second = first;
+                first = total;
             }
-
-            prev2 = prev1;
-            prev1 = current;
         }
 
-        return prev1;
+        return total;
     }
 }
