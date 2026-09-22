@@ -4,7 +4,7 @@ class Solution {
         int bottom = matrix.length - 1;
         int right = matrix[0].length - 1;
         List<Integer> result = new ArrayList<>();
-        int i, j;
+        int i;
         while(left <= right && top <= bottom)
         {
             
