@@ -1,12 +1,12 @@
 class Solution {
     public int reverseBits(int n) {
-        int reverse = 0;
-        for(int i = 0; i < 32; i++)
-        {
-            int onebit = n & 1;
-            reverse = (reverse << 1) | onebit;
-            n = n >>> 1;
+        String Str = Integer.toBinaryString(n);
+        while( Str.length() < 32) 
+        { 
+            Str = "0" + Str; 
         }
-        return reverse;
+        String Reverse = new StringBuilder(Str).reverse().toString();
+        long Str2 = Long.parseLong(Reverse, 2);
+        return (int) Str2;
     }
 }
