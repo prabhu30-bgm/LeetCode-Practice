@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0263-ugly-number) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0740-delete-and-earn](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0740-delete-and-earn) |
 ## String
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0283-move-zeroes) |
 ## Newton's Method
 |  |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0258-add-digits) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
