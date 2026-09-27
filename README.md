@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0740-delete-and-earn](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0740-delete-and-earn) |
 ## String
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0740-delete-and-earn](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0740-delete-and-earn) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0169-majority-element) |
 ## Recursion
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0191-number-of-1-bits) |
 ## Number Theory
@@ -176,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2396-strictly-palindromic-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
