@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1137-n-th-tribonacci-number) |
+| [2396-strictly-palindromic-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2396-strictly-palindromic-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0283-move-zeroes) |
+| [2396-strictly-palindromic-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2396-strictly-palindromic-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0202-happy-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
