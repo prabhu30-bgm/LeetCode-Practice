@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0171-excel-sheet-column-number) |
+| [0344-reverse-string](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0344-reverse-string) |
 ## Array
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [2396-strictly-palindromic-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2396-strictly-palindromic-number) |
 ## Newton's Method
 |  |
