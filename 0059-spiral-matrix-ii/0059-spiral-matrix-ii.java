@@ -1,7 +1,7 @@
 class Solution {
     public int[][] generateMatrix(int n) {
         int[][] matrix = new int[n][n];
-        int bottom = n - 1, right = n - 1,top=0,left= 0;;
+        int top = 0,left = 0,bottom = n - 1, right = n - 1;
         int i, num = 1;
         while(num <= n*n)
         {
