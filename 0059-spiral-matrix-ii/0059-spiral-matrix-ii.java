@@ -8,7 +8,6 @@ class Solution {
             for(i = left; i<= right; i++)
             {
                 matrix[top][i] = num;
-                System.out.println(num);
                 num++;
             }
             top++;
@@ -16,7 +15,6 @@ class Solution {
             for(i = top; i<= bottom; i++)
             {
                 matrix[i][right] = num;
-                System.out.println(num);
                 num++;
             }
             right--;
@@ -26,7 +24,6 @@ class Solution {
                 for(i = right; i >= left; i--)
                 {
                     matrix[bottom][i] = num;
-                    System.out.println(num);
                     num++;
                 }
                 bottom--;   
@@ -37,7 +34,6 @@ class Solution {
                 for(i = bottom; i >= top; i--)
                 {
                     matrix[i][left] = num;
-                    System.out.println(num);
                     num++;
                 }
                 left++;
