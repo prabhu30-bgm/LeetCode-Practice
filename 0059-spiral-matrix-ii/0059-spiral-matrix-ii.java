@@ -3,7 +3,7 @@ class Solution {
         int[][] matrix = new int[n][n];
         int bottom = n - 1, right = n - 1,top=0,left= 0;;
         int i, num = 1;
-        while(left <= right && top <= bottom)
+        while(num <= n*n)
         {
             for(i = left; i<= right; i++)
             {
