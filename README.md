@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1137-n-th-tribonacci-number) |
+| [2235-add-two-integers](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2396-strictly-palindromic-number) |
 ## Hash Table
 |  |
