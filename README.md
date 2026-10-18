@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0169-majority-element) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 ## Sliding Window
 |  |
 | ------- |
