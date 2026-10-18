@@ -8,7 +8,7 @@ class Solution {
 
         while(low <= high)
         {
-            int mid = (low + high) / 2;
+            int mid = low + (high - low) / 2;
             int row = mid / n;
             int col = mid % n;
 
