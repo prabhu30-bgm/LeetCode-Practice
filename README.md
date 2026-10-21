@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0740-delete-and-earn](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0740-delete-and-earn) |
+| [0771-jewels-and-stones](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0344-reverse-string) |
+| [0771-jewels-and-stones](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Array
