@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0066-plus-one) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0509-fibonacci-number) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0191-number-of-1-bits) |
