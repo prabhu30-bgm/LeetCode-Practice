@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0740-delete-and-earn](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0740-delete-and-earn) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1929-concatenation-of-array](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Trie
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Dynamic Programming
 |  |
