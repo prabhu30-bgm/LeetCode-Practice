@@ -2,12 +2,14 @@ class Solution {
     public int[] searchRange(int[] nums, int target) {
         int[] newArray = new int[]{-1,-1};
 
-         for (int i = 0; i < 2; i++) {
+         for (int i = 0; i < 2; i++) 
+         {
             int left = 0;
             int right = nums.length - 1;
             boolean isFirst = (i == 0);
 
-            while (left <= right) {
+            while (left <= right) 
+            {
                 int mid = left + (right - left) / 2;
 
                 if (nums[mid] == target) 
