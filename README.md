@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0217-contains-duplicate) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0054-spiral-matrix) |
