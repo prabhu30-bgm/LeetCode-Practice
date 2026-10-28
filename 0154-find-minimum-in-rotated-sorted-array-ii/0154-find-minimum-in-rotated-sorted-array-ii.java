@@ -9,18 +9,17 @@ class Solution {
         while(left < right)
         {
             int mid = left + (right - left) / 2;
-            if(nums[mid]==nums[left] && nums[mid]==nums[right])
+            if(nums[mid] > nums[right])
             {
-                left += 1;
-                right -= 1;
+                left = mid + 1;
             }
-            else if(nums[mid]>nums[right])
+            else if(nums[mid] < nums[right])
             {
-                left = mid+1;
+                right = mid;
             }
             else 
             {
-                right = mid;
+                right--;
             }
         }
         return nums[left];
