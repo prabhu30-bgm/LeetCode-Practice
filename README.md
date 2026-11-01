@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
+| [1672-richest-customer-wealth](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1672-richest-customer-wealth) |
 ## Sliding Window
 |  |
 | ------- |
