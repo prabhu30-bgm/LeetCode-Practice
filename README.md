@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1137-n-th-tribonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2396-strictly-palindromic-number) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0740-delete-and-earn](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0740-delete-and-earn) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1512-number-of-good-pairs) |
