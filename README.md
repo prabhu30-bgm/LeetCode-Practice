@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0740-delete-and-earn](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0740-delete-and-earn) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Recursion
