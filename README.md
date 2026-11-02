@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0740-delete-and-earn](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Recursion
 |  |
