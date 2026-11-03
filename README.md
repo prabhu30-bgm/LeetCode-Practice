@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2769-find-the-maximum-achievable-number) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Trie
 |  |
 | ------- |
