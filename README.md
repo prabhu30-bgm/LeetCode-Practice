@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1512-number-of-good-pairs) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2396-strictly-palindromic-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2396-strictly-palindromic-number) |
 ## Newton's Method
 |  |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Recursion
 |  |
