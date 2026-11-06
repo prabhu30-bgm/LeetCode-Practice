@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0389-find-the-difference) |
 | [0740-delete-and-earn](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0740-delete-and-earn) |
 | [0771-jewels-and-stones](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1512-number-of-good-pairs) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
