@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0740-delete-and-earn](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1267-count-servers-that-communicate](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1672-richest-customer-wealth](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1672-richest-customer-wealth) |
 ## Sliding Window
 |  |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1512-number-of-good-pairs](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -330,4 +333,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
