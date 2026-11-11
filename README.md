@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3693-climbing-stairs-ii](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Trie
 |  |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0740-delete-and-earn) |
 | [1137-n-th-tribonacci-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1137-n-th-tribonacci-number) |
+| [3693-climbing-stairs-ii](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
 |  |
 | ------- |
