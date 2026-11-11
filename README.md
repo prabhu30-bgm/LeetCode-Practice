@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2769-find-the-maximum-achievable-number) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Hash Table
 |  |
 | ------- |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0011-container-with-most-water) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Prefix Sum
 |  |
 | ------- |
