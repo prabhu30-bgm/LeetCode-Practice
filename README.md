@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Trie
