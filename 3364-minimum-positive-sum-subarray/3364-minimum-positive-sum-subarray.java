@@ -17,9 +17,7 @@ class Solution {
                 }
             }
         }
-        if(MinSum != Integer.MAX_VALUE)
-            return MinSum;
-
-        return -1;
+        
+        return MinSum == Integer.MAX_VALUE ? -1 : MinSum;
     }
 }
