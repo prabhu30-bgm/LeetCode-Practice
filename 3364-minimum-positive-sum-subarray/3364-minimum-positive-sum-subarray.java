@@ -9,11 +9,13 @@ class Solution {
             {
                 currentSum += nums.get(j);
                 int length = j - i + 1;
+                
+                if (length > r) 
+                    break;
 
-                if(length >= l && length <= r)
+                if(length >= l && currentSum > 0)
                 {
-                    if(currentSum > 0)
-                        MinSum = Math.min(currentSum, MinSum);
+                   MinSum = Math.min(currentSum, MinSum);
                 }
             }
         }
