@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2315-count-asterisks](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2315-count-asterisks) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Array
 |  |
 | ------- |
