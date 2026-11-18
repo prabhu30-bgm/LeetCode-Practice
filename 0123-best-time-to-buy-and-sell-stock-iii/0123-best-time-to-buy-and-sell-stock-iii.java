@@ -4,6 +4,8 @@ class Solution {
         int buy2 = Integer.MIN_VALUE;
         int sell1 = 0;
         int sell2 = 0;
+
+        //HELP OF GEMINI AI
         for(int price : prices)
         {
             buy1 = Math.max(buy1, -price);
