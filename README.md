@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/3693-climbing-stairs-ii) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/prabhu30-bgm/LeetCode-Practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Prefix Sum
 |  |
